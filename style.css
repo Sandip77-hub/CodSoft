@@ -1,0 +1,48 @@
+h1.top{
+    text-align: center;
+    text-size-adjust: 15%;
+    text-justify: auto;
+    padding-top: 1.5%;
+    padding-bottom: 2.5%;
+    font-size: 300%;
+}
+.custome-class{
+    margin: 2%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: rgb(241, 197, 180);
+    width: auto;
+    padding: 4%;
+    margin: 3%;
+    box-shadow:7px 15px rgb(80, 79, 79);
+    border-radius: 1.5%;
+}
+h2.mid{
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 1%;
+    font-size: 290%;
+}
+.image-content{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.foot-content{
+    margin-top: 4%;
+    text-align: center;
+    margin-bottom: 2.5%;
+    font-size: large;
+}
+body{
+    scroll-behavior: auto;
+    scroll-behavior: smooth;
+    background-image:linear-gradient(to right, rgba(255,0,0,0), rgb(207, 22, 22));;
+}
+ul{
+    list-style-type: square;
+    list-style-position: initial;
+    line-height: 200%;
+}
+
